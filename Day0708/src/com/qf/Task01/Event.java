@@ -12,5 +12,7 @@ public class Event {
 	public void setSource(Person source) {
 		this.source = source;
 	}
-	
+	public static void main(String[] args) {
+		System.out.println("11");
+	}
 }
